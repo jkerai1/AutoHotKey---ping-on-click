@@ -1,4 +1,4 @@
-# AutoHotKey---ping-on-shoot-call-of-duty
+# AutoHotKey---ping-on-Click
 Autohotkey script to ping on shoot in call of duty warzone. Ping has been binded to right alt. note that menus require user to navigate with WASD + space instead of mouse (pending a hotkey to disable the script)
 
 
